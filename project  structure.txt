@@ -1,0 +1,11 @@
+project/
+├── app.py
+├── config.py
+├── requirements.txt
+├── temp_uploads/
+├── answers.txt  (optional if saving)
+└── modules/
+    ├── pdf_loader.py
+    ├── llm_setup.py
+    ├── vector_store.py
+    └── qna.py
